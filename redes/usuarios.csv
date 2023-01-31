@@ -1,0 +1,16 @@
+Emplaye,Username,GiveName,SurName,DisplayName,UserPrincipalName,StreetAddress,City,State,ZipCode,Password,Telephone_Number,Departament,ocupation ,Path,Office
+1011,yuridia.ramirez,Yuridia,Ramirez,Ing.Yuridia,yuridia.ramirez@adatum.net,AV avestruzes ,GDL,Jalisco,44111,Pa$$w0rd,3321245588,mantenimiento,Jefe de piso,"OU=mantenimiento,OU=areas_de_trabajo,DC=adatum,DC=net",Sucursal Principal
+1012,juan.ricardo,Juan,Ricardo,Ing.Juan,juan.ricardo@adatum.net,Av acatlan,GDL,Jalisco,44133,Pa$$w0rd,3345678788,mantenimiento,Gerente,"OU=mantenimiento,OU=areas_de_trabajo,DC=adatum,DC=net",Sucursal Principal
+1013,natalia.medina,Natalia,Medina,Dr.Natalia,natalia.medina@adatum.net,Av las huertas,GDL,Jalisco,44144,Pa$$w0rd,3321899890,mantenimiento,supervisor,"OU=mantenimiento,OU=areas_de_trabajo,DC=adatum,DC=net",Sucursal Principal
+1014,mariana.medina,Mariana,Medina,Lic.Marina,mariana.medina@adatum.net,Av perlas,GDL,Jalisco,441445,Pa$$w0rd,3321455565,mantenimiento,secretaria,"OU=mantenimiento,OU=areas_de_trabajo,DC=adatum,DC=net",Sucursal Principal
+1015,elena.rocha,Elena,Rocha,Lic.Elena,elena.rocha@adatum.net,Av Tecatitlan,GDL,Jalisco,44212,Pa$$w0rd,3367897667,mantenimiento,Auxiliar,"OU=mantenimiento,OU=areas_de_trabajo,DC=adatum,DC=net",Sucursal Principal
+1112,montse.Rodriguez,Montse,Rodriguez,Lic.Montse,montse.rodriguez@adatum.net,Av raza,GDL,Jalisco,44898,Pa$$w0rd,3345890990,seguridad,jefe de piso,"OU=seguridad,OU=areas_de_trabajo,DC=adatum,DC=net",Minerva
+1113,itzel.ochoa,Itzel,Ochoa,Ing.Itzel,itzel.ochoa@adatum.net,Av lomas dorada,GDL,Jalisco,44788,Pa$$w0rd,3312781101,seguridad,Gerente,"OU=seguridad,OU=areas_de_trabajo,DC=adatum,DC=net",Minerva
+1114,selma.perez,Selma,Perez,Lic.Selma,selma.perez@adatum.net,Av condesa,Mexico,CDMX,33200,Pa$$w0rd,5523909989,seguridad,Supervisor,"OU=seguridad,OU=areas_de_trabajo,DC=adatum,DC=net",Home ofiice
+1115,saul.isac,Saul,Isac,Lic.Saul,saul.isac@adatum.net,Av oblatos,GDL ,Jalisco,44759,Pa$$w0rd,3343236710,seguridad,Auxiliar,"OU=seguridad,OU=areas_de_trabajo,DC=adatum,DC=net",Minerva
+1116,richard.cortez ,Richard ,Cortez ,Lic.Richard,richard.cortez@adatum.net,Av gomera,GDL,Jalisco,44323,Pa$$w0rd,3321121343,seguridad,Auxiliar,"OU=seguridad,OU=areas_de_trabajo,DC=adatum,DC=net",Minerva
+1121,omar.serna,Omar,Serna,Lic.Omar,omar.serna@adatum.net,Av tecatitlan,GDL,Jalisco,44343,Pa$$w0rd,3323435544,soporte,Gerente,"OU=soporte,OU=areas_de_trabajo,DC=adatum,DC=net",Lopez Mateos
+1122,emanuel.padilla,Emanuel,Padilla,Lic.Emanuel,emanuel.padilla@adatum.net,Av. Javier mina,GDL,Jalisco,44121,Pa$$w0rd,3321145434,soporte,supervisor,"OU=soporte,OU=areas_de_trabajo,DC=adatum,DC=net",Lopez Mateos
+1123,fernanda.solis,Fernanda,Solis ,Ing.Fernanda,fernanda.solis@adatum.net ,Av lopez mateos,GDL,Jalisco,44112,Pa$$w0rd,332110998,soporte,Jefe de piso,"OU=soporte,OU=areas_de_trabajo,DC=adatum,DC=net",Lopez Mateos
+1124,david.fuentes,David,Fuentes,Lic.David,david.fuentes@adatum.net,Av isla Raza,GDL,Jalisco,44233,Pa$$w0rd,3388990023,soporte,Auxiliar,"OU=soporte,OU=areas_de_trabajo,DC=adatum,DC=net",Lopez Mateos
+1125,karla.bonilla,Karla ,Bonilla,Lic.Karla,karla.bonilla@adatum.net,Av el alamo,GDL,Jalisco,44909,Pa$$w0rd,3322324512,soporte,Auxiliar,"OU=soporte,OU=areas_de_trabajo,DC=adatum,DC=net",Lopez Mateos
